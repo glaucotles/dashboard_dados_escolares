@@ -107,7 +107,7 @@ Visualização tabular dos dados filtrados para análise detalhada.
 
 ### 1️⃣ Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/glaucotles/dashboard_dados_escolares
 cd seu-repositorio
 ```
 ### 2️⃣ Instale as dependências
